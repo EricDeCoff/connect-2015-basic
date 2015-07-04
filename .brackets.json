@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/_ionic/myApp/www/js/defaults.js",
+        "C:/_ionic/myApp/www/js/app.js"
+    ]
+}
